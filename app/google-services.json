@@ -1,0 +1,55 @@
+{
+  "project_info": {
+    "project_number": "1035888045921",
+    "firebase_url": "https://esportarena-e330f.firebaseio.com",
+    "project_id": "esportarena-e330f",
+    "storage_bucket": "esportarena-e330f.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1035888045921:android:7e418c0730f5c1b8",
+        "android_client_info": {
+          "package_name": "com.example.dendi.esportarena"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1035888045921-4c5moljlomkg239u3d0m5vskugqa7i29.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.dendi.esportarena",
+            "certificate_hash": "e3c141c00d7f1a52c676f4a811490a45490cd749"
+          }
+        },
+        {
+          "client_id": "1035888045921-qus0bd8uec9velqaod3pftlcb5eqaac1.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAiYVEq_SMJPrRRgBG5PKmzQpG19-TcrYc"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1035888045921-qus0bd8uec9velqaod3pftlcb5eqaac1.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
